@@ -4,9 +4,9 @@
 // @include     https://www.dns-shop.ru/product/*/*/opinion/
 // @grant       none
 // @run-at      document-start
-// @version     1.0.0
-// @downloadURL https://bitbucket.org/liiws/dns-shop-mark-in-percents/downloads/dns-shop-mark-in-percents.user.js
-// @updateURL   https://bitbucket.org/liiws/dns-shop-mark-in-percents/downloads/dns-shop-mark-in-percents.meta.js
+// @version     1.0.1
+// @downloadURL https://github.com/liiws/dns-shop-mark-in-percents/releases/download/release/dns-shop-mark-in-percents.user.js
+// @updateURL   https://github.com/liiws/dns-shop-mark-in-percents/releases/download/release/dns-shop-mark-in-percents.meta.js
 // ==/UserScript==
 
 

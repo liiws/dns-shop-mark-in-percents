@@ -12,4 +12,4 @@
 
 # Скачать
 
-[dns-shop-mark-in-percents.user.js](https://bitbucket.org/liiws/dns-shop-mark-in-percents/downloads/dns-shop-mark-in-percents.user.js).
+[dns-shop-mark-in-percents.user.js](https://github.com/liiws/dns-shop-mark-in-percents/releases/download/release/dns-shop-mark-in-percents.user.js).
